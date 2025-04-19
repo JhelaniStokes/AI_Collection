@@ -1,1 +1,1 @@
-An unorganized collection of AI experiments i've done
+An unorganized collection of AI experiments I've done
